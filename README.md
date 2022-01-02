@@ -1,2 +1,1 @@
-This is an interactive Excel dashboard built with Python using the Streamlit library.
- 
+Built an interactive excel sheet based dashboard with Python using the Streamlit library.
